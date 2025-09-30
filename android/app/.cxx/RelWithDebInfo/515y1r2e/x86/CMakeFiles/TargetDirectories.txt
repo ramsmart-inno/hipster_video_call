@@ -1,2 +1,0 @@
-/Users/naveenselvam/Desktop/ai_pair_programming/hipster_video_call/android/app/.cxx/RelWithDebInfo/515y1r2e/x86/CMakeFiles/edit_cache.dir
-/Users/naveenselvam/Desktop/ai_pair_programming/hipster_video_call/android/app/.cxx/RelWithDebInfo/515y1r2e/x86/CMakeFiles/rebuild_cache.dir
